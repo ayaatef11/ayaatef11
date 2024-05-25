@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ayaatef11/ayaatef11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Aya
+#### I'm a full stack .net developer
+I'm a creative developer 
 
-Here are some ideas to get you started:
+Skills: MVC,Blazor,.Net Core,c#,design patterns,HTML,CSS,Type script,Angular,SASS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on developing systems 
+- 🌱 I’m currently learning web development 
+
+
+
+
+
