@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Github projects**
 
 - 📫 How to reach me **ayabadrin667@gmail.com**
-- My Resume <a href="https://drive.google.com/file/d/1TeTup55QhggW3GDGtfqJDvivW4hCznBv/view?usp=sharing>my_Resume</a>
+[My Resume](https://drive.google.com/file/d/1TeTup55QhggW3GDGtfqJDvivW4hCznBv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
