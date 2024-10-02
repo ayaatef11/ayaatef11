@@ -61,17 +61,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaatef11" alt="ayaatef11" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce system**
-
-- 🌱 I’m currently learning **.Net framework**
-
-- 👯 I’m looking to collaborate on **Github projects**
-
-- 📫 How to reach me **ayabadrin667@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
