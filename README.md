@@ -12,6 +12,20 @@
 - 📫 How to reach me **ayabadrin667@gmail.com**
 - 🤖 Resume [My Resume](https://drive.google.com/file/d/1TeTup55QhggW3GDGtfqJDvivW4hCznBv/view?usp=sharing)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaatef11&label=Profile%20views&color=0e75b6&style=flat" alt="ayaatef11" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaatef11" alt="ayaatef11" /></a> </p>
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaatef11&show_icons=true&locale=en&layout=compact" alt="ayaatef11" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaatef11&show_icons=true&locale=en" alt="ayaatef11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaatef11&" alt="ayaatef11" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://dev.to/aya_atef_11" target="blank" style="margin-right: 15px;">
@@ -54,16 +68,3 @@
 <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaatef11&label=Profile%20views&color=0e75b6&style=flat" alt="ayaatef11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaatef11" alt="ayaatef11" /></a> </p>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaatef11&show_icons=true&locale=en&layout=compact" alt="ayaatef11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaatef11&show_icons=true&locale=en" alt="ayaatef11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaatef11&" alt="ayaatef11" /></p>
