@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Github projects**
 
 - 📫 How to reach me **ayabadrin667@gmail.com**
-- 🤖 Resume [My Resume](https://drive.google.com/file/d/1TeTup55QhggW3GDGtfqJDvivW4hCznBv/view?usp=sharing](https://drive.google.com/file/d/1uSddxxElRYinZj9i6osH-CCK46I_fi-5/view?usp=sharing))
+- 🤖 Resume [My Resume](https://drive.google.com/file/d/1uSddxxElRYinZj9i6osH-CCK46I_fi-5/view?usp=sharing)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaatef11&label=Profile%20views&color=0e75b6&style=flat" alt="ayaatef11" /> </p>
