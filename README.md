@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Github projects**
 
-- 📫 How to reach me **ayabadrin667@gmail.com**
 - 🤖 Resume [My Resume](https://drive.google.com/file/d/1uSddxxElRYinZj9i6osH-CCK46I_fi-5/view?usp=sharing)
 
 
