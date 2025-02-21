@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Github projects**
 
 - 🤖 Resume [My Resume]([https://drive.google.com/file/d/1uSddxxElRYinZj9i6osH-CCK46I_fi-5/view?usp=sharing](https://drive.google.com/file/d/17o5fIlsEd5QZtEuNagA9MZLXv_cBSCPY/view?usp=sharing])
-- 🎯 My website [My website]([https://ayaatef11.github.io/MYPortfolio/])
+- 🎯 My website [My website](https://ayaatef11.github.io/MYPortfolio/)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaatef11" alt="ayaatef11" /></a> </p>
