@@ -12,7 +12,6 @@
 - 🤖 Resume [My Resume](https://drive.google.com/file/d/1uSddxxElRYinZj9i6osH-CCK46I_fi-5/view?usp=sharing)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaatef11&label=Profile%20views&color=0e75b6&style=flat" alt="ayaatef11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaatef11" alt="ayaatef11" /></a> </p>
 
