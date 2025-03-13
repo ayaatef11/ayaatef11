@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Github projects**
 
-- 🤖 Resume [My Resume]([https://drive.google.com/file/d/1uSddxxElRYinZj9i6osH-CCK46I_fi-5/view?usp=sharing](https://drive.google.com/file/d/17o5fIlsEd5QZtEuNagA9MZLXv_cBSCPY/view?usp=sharing])
+- 🤖 Resume [My Resume](https://drive.google.com/file/d/1uSddxxElRYinZj9i6osH-CCK46I_fi-5/view?usp=sharing)
 - 🎯 My website [My website](https://ayaatef11.github.io/MYPortfolio/)
 
 
