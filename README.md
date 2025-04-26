@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Aya Atef</h1>
 <h3 align="center">A passionate Full Stack developer (.NET - Angular  ) | Competitve Programmer </h3>
 
-- 🔭 I’m currently working at **EOL**
 
 - 🌱 I’m currently building **Fullstack projects**
 
