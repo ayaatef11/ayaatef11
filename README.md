@@ -8,10 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Github projects**
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaatef11" alt="ayaatef11" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://dev.to/aya_atef_11" target="blank" style="margin-right: 15px;">
